@@ -10,7 +10,6 @@
       💻 Working with web, mobile, databases and DevOps<br/>
       ⚙️ Strong focus on software architecture and code quality<br/>
       📚 Learning (continuous theory + hands-on): Golang and Rust
-
     </td>
     <td>
       <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="220" alt="coding gif"/>
