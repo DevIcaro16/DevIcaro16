@@ -60,13 +60,6 @@
 - Design Patterns applied across backend, frontend, and mobile
 - Monoliths, distributed systems, and microservices
 
-## Experience
-
-- **Full Stack and Mobile Software Engineer - Gesprov (09/2025 - Present)**
-- **Freelance Developer (01/2025 - Present)**
-- **Software Developer Analyst - Micro & Money (08/2024 - 08/2025)**
-- **Web Developer - Computex Academic Systems (08/2023 - 03/2024)**
-- **Internal Systems Developer - EEEP Comendador Miguel Gurgel (01/2023 - 06/2023)**
 
 ## Contact
 
